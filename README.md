@@ -1,2 +1,2 @@
 # -vibecoding
-a small game
+class
